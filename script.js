@@ -31,5 +31,5 @@ function createCard({destinationName, locationName, photoUrl, descr}) {
     `;
 
     return card;
-    
+
 }
